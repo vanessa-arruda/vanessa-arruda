@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi 👋, I am Vanessa!
+Welcome to my gitHub Profile!
+
+## Want to know more about me and my Projects?
+
+### You can find my [Portfolio](vanessarruda.com) here;
+I've created it to showcase some of my projects and learn more ❤
+
+### My [LinkedIn](https://www.linkedin.com/in/arrudavanessa/) profile here;
 
 <!--
 **vanessa-arruda/vanessa-arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
