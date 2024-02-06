@@ -1,12 +1,15 @@
 # Hi 👋, I am Vanessa!
 Welcome to my gitHub Profile!
 
+![header](/header.png)
+
 ## Want to know more about me and my Projects?
 
-### You can find my [Portfolio](vanessarruda.com) here;
+### Check out my [Portfolio](vanessarruda.com);
 I've created it to showcase some of my projects and learn more ❤
 
-### My [LinkedIn](https://www.linkedin.com/in/arrudavanessa/) profile here;
+### And here you can find my [LinkedIn](https://www.linkedin.com/in/arrudavanessa/) profile;
+It's been an interesting and amazing journey until here!
 
 <!--
 **vanessa-arruda/vanessa-arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
