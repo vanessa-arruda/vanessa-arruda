@@ -2,7 +2,7 @@ Hi 👋, I am Vanessa!
 Welcome to my gitHub Profile!
 
 ![header](/header.png)
-I'm a self-taught passionate FrontEnd developer student!
+I'm a self-taught passionate developer learner!
 
 ## Want to know more about me and my Projects?
 
