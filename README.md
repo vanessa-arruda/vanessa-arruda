@@ -11,7 +11,7 @@ programming - A journey I started mid 2023 that brought me great skills that I a
 to life many awesome projects. But I also invite you to:
 
 #### - Check out my [Portfolio](https://vanessarruda.com);
-I've created it to showcase some of my projects and learn more ❤
+I've created it to showcase some of my projects ❤
 
 #### - Check out my [LinkedIn](https://www.linkedin.com/in/arrudavanessa/) profile;
 Check out my professional background details
