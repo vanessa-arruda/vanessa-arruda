@@ -1,5 +1,5 @@
 Hi 👋, I am Vanessa!
-Welcome to my gitHub Profile!
+Welcome to my GitHub Profile!
 
 ![header](/linkedin-banner-light.PNG)
 I'm a self-taught passionate web/app developer learner!
