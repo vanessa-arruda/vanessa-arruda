@@ -10,7 +10,7 @@ In my gitHub page you can check my open repos and learn a bit of the personal pr
 programming - A journey I started mid 2023 that brought me great skills that I am eager to improve everyday and bring
 to life many awesome projects. But I also invite you to:
 
-#### - Check out my [Portfolio](https://vanessarruda.com);
+#### - Check out my [Portfolio](https://vanessa.arruda.eu);
 I've created it to showcase some of my projects ❤
 
 #### - Check out my [LinkedIn](https://www.linkedin.com/in/arrudavanessa/) profile;
