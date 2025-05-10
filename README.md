@@ -2,13 +2,11 @@ Hi 👋, I am Vanessa!
 Welcome to my GitHub Profile!
 
 ![header](/linkedin-banner-light.PNG)
-I'm a self-taught passionate web/app developer learner!
-
+I started as a self-taught, with basic <html> knowledge who became a passionate web developer and ended up in backend as a Data Integration Engineer.
+Python ❤️
 ## Want to know more about me and my Projects?
 
-In my gitHub page you can check my open repos and learn a bit of the personal projects I have been working on to learn
-programming - A journey I started mid 2023 that brought me great skills that I am eager to improve everyday and bring
-to life many awesome projects. But I also invite you to:
+In my gitHub page you can check some of my open repos and learn a bit of the personal projects that helps me learn new things.
 
 #### - Check out my [Portfolio](https://vanessa.arruda.eu);
 I've created it to showcase some of my projects ❤
